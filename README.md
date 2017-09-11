@@ -2,6 +2,8 @@
 The Digital Services team works to make HUD's technology more friendly, efficient and easier to use for HUD staff, stakeholder and customers. 
 * View our <a href="https://github.com/HUD-Digital-Services/work-with-us/wiki" title="wiki">Wiki page</a> for more information about the work we do.
 
+![Digital Services Team Process](https://raw.githubusercontent.com/HUD-Digital-Services/work-with-us/master/DigitalServicesTeamProcess.jpg "Digital Services Team Process")
+
 ### We help teams to: 
 * validate needs of the citizens you serve to confirm programs are working well for them; 
 * identify new ways to bring value to your programs; 
